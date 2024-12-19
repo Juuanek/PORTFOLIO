@@ -32,15 +32,16 @@ My name is Janek, and I’m passionate about learning, especially in software te
 
 ## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
-Statscore Sp. z o.o. Katowice
-Junior Platform Operations Representative - 
- ![Customer wow champion](https://github.com/user-attachments/assets/8fea5e2f-e349-433e-8c07-71187af41e6b)
+## <p align="center" style="text-decoration: none;"></strong>STATSCORE</strong> ![imgstats](https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1) </p>
 
-My job is to maintain the operations on the platform created by Lsports. All of the operations are kind of the operations on the database of sports data and all of the related circumstances. We are creating, storing and constantly changing thousends of fixtures at the same time so there is a lot of data that can be corrupted by any automation so my job is mostly about finding those issues and solving them up the way that it may not appear once again in the future. This is very creative and analitical work as the issues are mostly covered bu multiple layers of informations and it is really easy to find but really hard to solve. 
+<p align="center">Junior Platform Operations Representative</p>
+
+I manage and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
+### <p align="left"><a href="https://www.statscore.com" target="_blank">☑️ Visit STATSCORE website</a></p>
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
-### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with SQL tasks </a></p>
+### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with SQL tasks</a></p>
 
 
   ## <p align="center"><a name="courses"> 🧭 COURSES 🧭 </a>
