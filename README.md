@@ -21,8 +21,8 @@
 
 
 ## <p align="center"><a name="links">  🔗 LINKS 🔗
-  - <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p> 
-  - <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
+### <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
+### <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
 
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
@@ -32,9 +32,14 @@ My name is Janek, and I’m passionate about learning, especially in software te
 
 ## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
-## <p align="center" style="text-decoration: none;"></strong>STATSCORE</strong> ![imgstats](https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1) </p>
+<p align="center" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1" alt="imgstats" width="100" height="100">
+</p>
 
-<p align="center">Junior Platform Operations Representative</p>
+<p align="center">
+    <strong style="color: blue;">STATSCORE</strong> - 
+    <span style="color: green;">Junior Platform Operations Representative</span>
+</p>
 
 I manage and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">☑️ Visit STATSCORE website</a></p>
@@ -95,7 +100,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 :arrow_forward: **Software testing** podcast by KiwiQA Services
 ## <p align="center"><a name="tools"> 🔨TOOLS🔨 </a>
-<p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Android Studio  🛰️Terminal 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea  🛰️ Git
+<p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Android Studio  🛰️Terminal 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea  🛰️ Git 🛰️ FreshDesk
  
 ## <p align="center"><a name="softskills"> 💁 SOFT SKILLS 💁 </a>
 
@@ -137,25 +142,29 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 ## <p align="center"><a name="passions">  🚲 PASSIONS 🚲
 
- - Learning new things
+ ✳️ Learning new things
 
- - Sports
+ ✳️ Sports
 
- - It
+ ✳️ IT
 
- - Pc assembly, specifications and hardware
+ ✳️ PC assembly, specifications and hardware
 
- - Computer games
+ ✳️ Computer games
 
-- Electronics
+ ✳️ Electronics
 
 ## <p align="center"><a name="programminglanguages"> 󠁧󠁢 🎌 PROGRAMMING LANGUAGES 🎌 󠁧󠁢󠁥 </a>
 
-- Java - Beginner level
-- SQL - Quite Experienced
-- SAP - Used in comercial environment
-- EXCEL - Used in comercial environment
-- HTML / CSS - Beginner
+✳️ Java - Beginner level
+
+✳️ SQL - Quite Experienced
+
+✳️ SAP - Used in comercial environment
+
+✳️ EXCEL - Used in comercial environment
+
+✳️ HTML / CSS - Beginner
 
 
 
