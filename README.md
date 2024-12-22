@@ -73,18 +73,12 @@ They performs services for huge companies around the world in testing their apps
 
 
 ## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
-As languages are really important part of every kind of job in IT I decided to write a little about it and how it looks in my life. 
-- **English** - Thats why I am writing all my sources in English is to show you that I can use it and use it well I think. I wrote whole portfolio and CV in English 
-and I try to use it as much as I can to be better and better. I watch movies, listen to podcasts, read books in this language and have very little difficulties overall. It may be a little more time consuming with some 
-unusual phrases, or words that I just don't know yet. I love this language and hope to use it in my future work almost all the time.
 
-- **Italian** - I spent 7 months in Italy in two parts. First I went on practices, and second time I went to take part in an intern opportunity. At that time I could speak almost fluently in English so I knew
-it won't be hard for me to learn the next one. And I started to learn and became a communicative in this language in a really short period of time. I would describe myself in this language as A1 
-because I can exchange thoughts with italians. But it is not like I am native or something. Just huge basics and really good understanding in practice at work not from books.
+- **English** - Really communicative
+  
+- **Italian** - Commniucative
 
-- **Spanish** - I have learned this language for a few years before I started learning Italian. Spanish helped me to better understand Italian language. For now my Spanish understanding is a little outdated
-because of lack of time. But this is on my list after becoming really good in Italian to become fluent also in Spanish. What I can tell (what even surprised me)
-was when we had a visitation at work from Spanish mother factory. I could communicate with spanish people as well as almost anyone else and I almost did't need to use a translator.
+- **Spanish** - Communicative
 
 Connecting my English skills with Italian and Spanish and confidency to speak in other language without fear of being rejected makes me a really international human being.
 
