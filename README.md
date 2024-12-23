@@ -19,7 +19,6 @@
 
 
 
-
 ## <p align="center"><a name="links">  🔗 LINKS 🔗
 ### <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 ### <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
@@ -120,19 +119,19 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: <a href="https://testerzy.pl/baza-wiedzy/ksiazki/rekrutacja-qa-nowa-ksiazka" target="_blank">Rekrutacja (Rafał Podraza)</a>
 
 ## <p align="center"><a name="authorities"> 🤹 AUTHORITIES 🤹 </a>
-:arrow_forward: Radosław Smiglin
+<p align="right"> Radosław Smiglin :arrow_forward:
 
-:arrow_forward: Rafał Podraza
+<p align="right"> Rafał Podraza :arrow_forward:
 
-:arrow_forward: Brian Tracy
+<p align="right"> Brian Tracy :arrow_forward:
 
-:arrow_forward: Maciej Wieczorek
+<p align="right"> Maciej Wieczorek :arrow_forward:
 
-:arrow_forward: Mathew Walker
+<p align="right"> Mathew Walker :arrow_forward:
 
-:arrow_forward: J.K. Rowling
+<p align="right"> J.K. Rowling :arrow_forward:
 
-:arrow_forward: TedTalks
+<p align="right"> TedTalks :arrow_forward:
 
 ## <p align="center"><a name="passions">  🚲 PASSIONS 🚲
 
@@ -150,15 +149,15 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 ## <p align="center"><a name="programminglanguages"> 󠁧󠁢 🎌 PROGRAMMING LANGUAGES 🎌 󠁧󠁢󠁥 </a>
 
-✳️ Java - Beginner level
+<p align="right"> Java - Beginner level ✳
 
-✳️ SQL - Quite Experienced
+<p align="right"> SQL - Quite Experienced ✳
 
-✳️ SAP - Used in comercial environment
+<p align="right"> SAP - Used in comercial environment ✳
 
-✳️ EXCEL - Used in comercial environment
+<p align="right"> EXCEL - Used in comercial environment ✳
 
-✳️ HTML / CSS - Beginner
+<p align="right"> HTML / CSS - Beginner ✳
 
 
 
