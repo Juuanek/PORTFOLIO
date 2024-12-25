@@ -149,15 +149,15 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 ## <p align="center"><a name="programminglanguages"> 󠁧󠁢 🎌 PROGRAMMING LANGUAGES 🎌 󠁧󠁢󠁥 </a>
 
-<p align="right"> Java - Beginner level ✳
+<p align="center">✳ Java - Beginner level ✳
 
-<p align="right"> SQL - Quite Experienced ✳
+<p align="center">✳ SQL - Quite Experienced ✳
 
-<p align="right"> SAP - Used in comercial environment ✳
+<p align="center">✳ SAP - Used in comercial environment ✳
 
-<p align="right"> EXCEL - Used in comercial environment ✳
+<p align="center">✳ EXCEL - Used in comercial environment ✳
 
-<p align="right"> HTML / CSS - Beginner ✳
+<p align="center">✳ HTML / CSS - Beginner ✳
 
 
 
