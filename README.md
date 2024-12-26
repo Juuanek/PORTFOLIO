@@ -73,11 +73,11 @@ They performs services for huge companies around the world in testing their apps
 
 ## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
 
-- **English** - Really communicative
+✈️ **English** - Really communicative
   
-- **Italian** - Commniucative
+✈️ **Italian** - Commniucative
 
-- **Spanish** - Communicative
+✈️ **Spanish** - Communicative
 
 Connecting my English skills with Italian and Spanish and confidency to speak in other language without fear of being rejected makes me a really international human being.
 
@@ -146,6 +146,9 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
  ✳️ Computer games
 
  ✳️ Electronics
+
+ ✳️ Food and nutrition
+
 
 ## <p align="center"><a name="programminglanguages"> 󠁧󠁢 🎌 PROGRAMMING LANGUAGES 🎌 󠁧󠁢󠁥 </a>
 
