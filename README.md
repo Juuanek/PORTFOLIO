@@ -32,7 +32,7 @@ My name is Janek, and I’m passionate about learning, especially in software te
 ## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
 <p align="center" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1" alt="imgstats" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1" alt="imgstats" width="75" height="75">
 </p>
 
 <p align="center">
