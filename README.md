@@ -65,8 +65,8 @@ I manage and maintain a sports data platform, ensuring the integrity of thousand
 
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
- My projects and expirence are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
-They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and I made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can rank up in levels. 
+ My projects and Experience are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
+They provide services for major companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and I made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can rank up in levels. 
 
 
 
@@ -79,7 +79,7 @@ They performs services for huge companies around the world in testing their apps
 
 ✈️ **Spanish** - Communicative
 
-Connecting my English skills with Italian and Spanish and confidency to speak in other language without fear of being rejected makes me a really international human being.
+Connecting my English skills with Italian and Spanish and confidence in speaking in other language without fear of being rejected makes me a really international human being.
 
  
 ## <p align="center"><a name="podcasts"> 👁️‍🗨️ PODCASTS ABOUT SOFTWARE TESTING 👁️‍🗨️ </a>
