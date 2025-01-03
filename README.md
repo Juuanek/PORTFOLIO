@@ -31,6 +31,8 @@ My name is Janek, and I’m passionate about learning, especially in software te
 
 ## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
+(for me = change this section to look more presentable. Add new position in statscore and later on mention all of the tasks and used apps and equipement)
+
 <p align="center" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1" alt="imgstats" width="75" height="75">
 </p>
