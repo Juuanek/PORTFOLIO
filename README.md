@@ -25,7 +25,7 @@
 
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
-My name is Janek, and I’m passionate about learning, especially in software testing and IT. I’m seeking a role with more growth opportunities. I’ve always enjoyed working with computers—fixing, optimizing, and even writing Java programs. I strive to combine productivity with enjoyment, constantly improving myself and living by the idea that ‘you can always become a little better.’ Lifelong development is my goal
+My name is Janek, and I am passionate individual about learning, especially in software testing and IT. I am seeking a role with more growth opportunities. I have always enjoyed working with computer-fixing, optimizing, and even writing Java programs. I love to combine productivity with enjoyment, constantly improving myself and living by the idea that 'you can always become a little better' Lifelong development is my goal.
 
 
 
