@@ -32,22 +32,28 @@ My name is Janek, and I am passionate individual about learning, especially in s
 ## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
 
-<p align="left" style="text-decoration: none;">
+<p align="right" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1" alt="imgstats" width="75" height="75">
 </p>
 
-<p align="right">
+<p align="left">
     <strong style="color: blue;">STATSCORE</strong> - 
     <span style="color: green;">Junior QA Engineer 
-   <p align="right">2025/1 - now</span>
+   <p align="left">2025/1 - now</span>
 </p>
 
 I was obliged to test all our internal app including many different tests but mostly in terms of front end to keep our functionality in top shape. Doing regression tests as well as retests. Also trying now to understand as mucch typescript to be able to automate the tests so most of them can be done automatically.
+Used at work:
+- Git
+- Jira
+- Postman
+- DBeaver
+- Ubuntu
 
-<p align="right">
+<p align="left">
     <strong style="color: blue;">STATSCORE</strong> - 
     <span style="color: green;">Junior Platform Operations Representative 
-   <p align="right">2024/6 - 2024/12</span>
+   <p align="left">2024/6 - 2024/12</span>
 </p>
 
 I managed and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
