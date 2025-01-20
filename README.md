@@ -3,7 +3,7 @@
 
 ### <p align="center">🧮 CONTENT 🧮
 
- 
+ <p align="center">You can click on the part you are interested about and it will redirect you to the relevant part of the web.
 
 🟢 [**ABOUT ME**](#aboutme) <p align="right"> [**PODCASTS ABOUT SOFTWARE TESTING**](#podcasts) 🟢
 
