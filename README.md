@@ -37,26 +37,25 @@ My name is Janek, and I am passionate individual about learning, especially in s
 </p>
 
 <p align="left">
-    <strong style="color: blue;">STATSCORE</strong> - 
-    <span style="color: green;">Junior QA Engineer 
-   <p align="left">2025/1 - now</span>
+    <strong style="color: blue;">2025/1 - now   |   STATSCORE</strong> - 
+    <span style="color: green;">Junior QA Engineer
 </p>
 
 I was obliged to test all our internal app including many different tests but mostly in terms of front end to keep our functionality in top shape. Doing regression tests as well as retests. Also trying now to understand as mucch typescript to be able to automate the tests so most of them can be done automatically.
-Used at work:
-- Git
-- Jira
-- Postman
-- DBeaver
-- Ubuntu
+<p>Used at work:</p>
+♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️
+
+<p> </p>
+<p> </p>
 
 <p align="left">
-    <strong style="color: blue;">STATSCORE</strong> - 
-    <span style="color: green;">Junior Platform Operations Representative 
-   <p align="left">2024/6 - 2024/12</span>
+    <strong style="color: blue;">2024/6 - 2024/12  |  STATSCORE</strong> - 
+    <span style="color: green;">Junior Platform Operations Representative
 </p>
 
 I managed and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
+<p>Used at work:</p>
+♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️
 
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">☑️ Visit STATSCORE website</a></p>
