@@ -55,7 +55,7 @@ I was obliged to test all our internal app including many different tests but mo
 
 I managed and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
 <p>Used at work:</p>
-♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️  ♟️  ♟️  ♟️  ♟️  ♟️  ♟️
+♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️
 
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">☑️ Visit STATSCORE website</a></p>
