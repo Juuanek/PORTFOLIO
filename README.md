@@ -20,8 +20,8 @@
 
 
 ## <p align="center"><a name="links">  🔗 LINKS 🔗
-### <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
-### <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
+### <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">🔗 Visit my <b>LinkedIn</b> profile</a></p>
+### <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">🔗 Visit my <b>GoogleDrive Links</b> </a></p>
 
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
@@ -32,9 +32,7 @@ My name is Janek, and I am passionate individual about learning, especially in s
 ## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
 
-<p align="right" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/a0eee68e-3fe3-4e02-b68d-c0e62a7ed8d1" alt="imgstats" width="75" height="75">
-</p>
+
 
 <p align="left">
     <strong style="color: blue;">2025/1 - now   |   STATSCORE</strong> - 
@@ -45,8 +43,11 @@ I was obliged to test all our internal app including many different tests but mo
 <p>Used at work:</p>
 ♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️
 
-<p> </p>
-<p> </p>
+### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗 Visit STATSCORE website</a></p>
+
+
+ ## <p align="center"><a name="empty"></a>
+
 
 <p align="left">
     <strong style="color: blue;">2024/6 - 2024/12  |  STATSCORE</strong> - 
@@ -58,11 +59,11 @@ I managed and maintain a sports data platform, ensuring the integrity of thousan
 ♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️
 
 
-### <p align="left"><a href="https://www.statscore.com" target="_blank">☑️ Visit STATSCORE website</a></p>
+### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗  Visit STATSCORE website</a></p>
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
-### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with SQL tasks</a></p>
+### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">🔗 Visit my github repository with SQL tasks</a></p>
 
 
   ## <p align="center"><a name="courses"> 🧭 COURSES 🧭 </a>
@@ -111,6 +112,10 @@ Connecting my English skills with Italian and Spanish and confidence in speaking
 :arrow_forward: **Szkoła testowania** by Mariusz Ratajczak podcast
 
 :arrow_forward: **Software testing** podcast by KiwiQA Services
+
+:arrow_forward: **Rafał Podraza Podcast** podcast by Rafał Podraza
+
+
 ## <p align="center"><a name="tools"> 🔨TOOLS🔨 </a>
 <p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Android Studio  🛰️Terminal 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea  🛰️ Git 🛰️ FreshDesk
  
