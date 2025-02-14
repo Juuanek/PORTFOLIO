@@ -41,7 +41,7 @@ My name is Janek, and I am passionate individual about learning, especially in s
 
 I was obliged to test all our internal app including many different tests but mostly in terms of front end to keep our functionality in top shape. Doing regression tests as well as retests. Also trying now to understand as mucch typescript to be able to automate the tests so most of them can be done automatically.
 <p>Used at work:</p>
-♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️ MySQL
+♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️ MySQL ♟️ Sourcetree ♟️
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗 Visit STATSCORE website</a></p>
 
@@ -56,7 +56,7 @@ I was obliged to test all our internal app including many different tests but mo
 
 I managed and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
 <p>Used at work:</p>
-♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️
+♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️ Changes in databases ♟️
 
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗  Visit STATSCORE website</a></p>
