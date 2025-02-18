@@ -39,7 +39,7 @@ My name is Janek, and I am passionate individual about learning, especially in s
     <span style="color: green;">Junior QA Engineer
 </p>
 
-I was obliged to test all our internal app including many different tests but mostly in terms of front end to keep our functionality in top shape. Doing regression tests as well as retests. Also trying now to understand as mucch typescript to be able to automate the tests so most of them can be done automatically.
+I was obliged to test all our internal app including many different tests but mostly in terms of front end and back end to keep our functionality in top shape. Doing regression tests as well as retests. Also trying now to understand as much typescript as I can to be able to automate the tests so most of them can be done automatically.
 <p>Used at work:</p>
 ♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️ MySQL ♟️ Sourcetree ♟️ Terminal
 
