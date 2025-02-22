@@ -83,6 +83,9 @@ I managed and maintain a sports data platform, ensuring the integrity of thousan
 
 🔀 **Become an Expert in HTML** - Udemy - Jad Khalili
 
+🔀 **Become an Expert in CSS** - Udemy - Jad Khalili
+
+
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
  My projects and Experience are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
