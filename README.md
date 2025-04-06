@@ -43,7 +43,7 @@ I was obliged to test all our internal app including many different tests but mo
 <p>Used at work:</p>
 ♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️ MySQL ♟️ Sourcetree ♟️ Terminal ♟️ HTTP ♟️ CSS ♟️ Chrome DevTools ♟️ 
 
-Also used: RabbitMQ, Kibana, Grafana, Argo, Playwright
+Also used: RabbitMQ, Kibana, Grafana, Argo, Playwright, javascript, typescript
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗 Visit STATSCORE website</a></p>
 
