@@ -87,6 +87,12 @@ I managed and maintain a sports data platform, ensuring the integrity of thousan
 
 🔀 **Become an Expert in CSS** - Udemy - Jad Khalili
 
+🔀 **Automated Web Testing with JavaScript and Playwright** - Udemy - Rick Schubert
+
+🔀 **JavaScript and Typescript** - Udemy - 
+
+
+
 
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
