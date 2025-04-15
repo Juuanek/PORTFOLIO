@@ -43,7 +43,7 @@ I was obliged to test all our internal app including many different tests but mo
 <p>Used at work:</p>
 ♟️ Git ♟️ Jira ♟️ Postman ♟️ DBeaver ♟️ Ubuntu ♟️ MacOs ♟️ Visiual Studio Code ♟️ Sublime ♟️ Microsoft ♟️ Docker ♟️ Slack ♟️ MySQL ♟️ Sourcetree ♟️ Terminal ♟️ HTTP ♟️ CSS ♟️ Chrome DevTools ♟️ 
 
-Also used: RabbitMQ, Kibana, Grafana, Argo, Playwright, javascript, typescript
+Also used: RabbitMQ, Kibana, Grafana, Argo, Playwright, javascript, typescript, newman
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗 Visit STATSCORE website</a></p>
 
@@ -58,7 +58,7 @@ Also used: RabbitMQ, Kibana, Grafana, Argo, Playwright, javascript, typescript
 
 I managed and maintain a sports data platform, ensuring the integrity of thousands of fixtures by identifying and resolving complex data issues. This role demands analytical thinking, creativity, and proactive problem-solving to implement lasting solutions and optimize platform operations.
 <p>Used at work:</p>
-♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️ Changes in databases ♟️
+♟️ FreshDesk ♟️ Internet reaserch ♟️ ChatGPT ♟️ ScreenPicker ♟️ Jira ♟️ Database operations ♟️
 
 
 ### <p align="left"><a href="https://www.statscore.com" target="_blank">🔗  Visit STATSCORE website</a></p>
